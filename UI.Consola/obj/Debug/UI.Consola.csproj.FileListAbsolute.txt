@@ -1,0 +1,17 @@
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\UI.Consola\bin\Debug\UI.Consola.exe.config
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\UI.Consola\bin\Debug\UI.Consola.exe
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\UI.Consola\bin\Debug\UI.Consola.pdb
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\UI.Consola\bin\Debug\EntityFramework.dll
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\UI.Consola\bin\Debug\EntityFramework.SqlServer.dll
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\UI.Consola\bin\Debug\Services.dll
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\UI.Consola\bin\Debug\DataAccess1.dll
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\UI.Consola\bin\Debug\Services.pdb
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\UI.Consola\bin\Debug\Services.dll.config
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\UI.Consola\bin\Debug\EntityFramework.xml
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\UI.Consola\bin\Debug\EntityFramework.SqlServer.xml
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\UI.Consola\bin\Debug\DataAccess1.pdb
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\UI.Consola\bin\Debug\DataAccess1.dll.config
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\UI.Consola\obj\Debug\UI.Consola.csprojResolveAssemblyReference.cache
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\UI.Consola\obj\Debug\UI.Consola.csproj.CoreCompileInputs.cache
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\UI.Consola\obj\Debug\UI.Consola.exe
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\UI.Consola\obj\Debug\UI.Consola.pdb

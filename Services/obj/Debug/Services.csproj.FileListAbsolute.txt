@@ -1,0 +1,14 @@
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\Services\bin\Debug\Services.dll.config
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\Services\bin\Debug\Services.dll
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\Services\bin\Debug\Services.pdb
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\Services\bin\Debug\DataAccess1.dll
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\Services\bin\Debug\EntityFramework.dll
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\Services\bin\Debug\EntityFramework.SqlServer.dll
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\Services\bin\Debug\DataAccess1.pdb
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\Services\bin\Debug\DataAccess1.dll.config
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\Services\bin\Debug\EntityFramework.xml
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\Services\bin\Debug\EntityFramework.SqlServer.xml
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\Services\obj\Debug\Services.dll
+\\fsitsv17\MOS-alumnos\alumno\Daniel Riba\ABM\Services\obj\Debug\Services.pdb
